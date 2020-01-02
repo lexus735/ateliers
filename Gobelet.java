@@ -1,4 +1,4 @@
-package fr.gtm.monopoly;
+package fr.gtm.game;
 
 public class Gobelet {
 		private De de1=new De();

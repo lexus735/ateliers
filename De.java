@@ -1,4 +1,4 @@
-package fr.gtm.monopoly;
+package fr.gtm.game;
 
 import java.util.Random;
 
